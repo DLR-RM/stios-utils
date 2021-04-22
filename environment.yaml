@@ -1,0 +1,7 @@
+name: stios_utils
+dependencies:
+    - python=3.7
+    - numpy
+    - ruamel.yaml
+    - pip:
+        - opencv-python

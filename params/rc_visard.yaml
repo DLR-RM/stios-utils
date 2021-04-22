@@ -1,0 +1,19 @@
+# rc_visard camera params
+
+color:
+  width: 1280
+  height: 960
+  fx: 1082.28
+  fy: 1082.28
+  cx: 640.
+  cy: 480.
+  baseline: 0.0650206
+
+depth:
+  width: 640
+  height: 480
+  fx: 541.14
+  fy: 541.14
+  cx: 320.
+  cy: 240.
+  unit: m
